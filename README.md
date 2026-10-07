@@ -11,7 +11,7 @@ GEC 124 · H78 · BS Nursing
 - `the-best-thing.jpg`
 
 ## Design
-This version keeps the teacher's original website idea (header/navigation, sections, footer) while adding:
+This version keeps the original website idea (header/navigation, sections, footer) while adding:
 - Frieren-inspired forest, lavender, sky-blue, rose, gold, and parchment colors
 - responsive layout
 - animated fireflies
